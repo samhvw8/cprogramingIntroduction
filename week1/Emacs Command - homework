@@ -1,0 +1,43 @@
+File
+C-x c-f : Open File
+C-x c-s : save file
+C-x c-w : save as
+c-x s 	: Save all
+C-x k 	: close window/buffer
+C-x C-c : Exit emacs
+c-x c-v	: Revert to File
+Move around
+M-<  	: move to the top of the file
+M->	: move to the end of the file
+C-v	: next screen
+M-v	: previous screen
+C-a	: to the start of the current line
+C-e	: forward one word
+M-b	: backward one word
+Edit the text
+C-spacebar: mark up the text
+C-g       : cancle mark up text
+C-w       : delete/cut
+M-w       : copy
+C-y       : paste
+C-_  & c-/: undo
+C-s search string forward
+C-r search string backward
+M-% Replace
+
+Some other cmds
+C-x 1     : one window
+C-x 2     : split the window horrizontal
+C-x 3     : split the window vertical
+C-x o     : move the cursor to the bottom window
+C-x b     : switch buffer
+C-s       : search string
+C-g       : keyboard-quit
+c-x k	  : Close 
+M-x goto-line: go to line number
+
+
+
+
+
+

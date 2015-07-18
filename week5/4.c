@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main () {
+  float a,b;
+  printf("insert a,b");scanf("%d%c%d",&a,&b);
+
+  return 0;}

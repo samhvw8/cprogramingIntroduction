@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+main () {
+printf("File\n C-x c-f : Open File\nC-x c-s : save file\nC-x c-w : save as\nc-x s 	: Save all\nC-x k 	: close window/buffer\nC-x C-c : Exit emacsc-x c-v\nMove around\nM-<  	: move to the top of the file\nM->	: move to the end of the file\nC-v	: next screen\nM-v	: previous screen\nC-a	: to the start of the current line\nC-e	: forward one word\nM-b	: backward one word\nEdit the text\nC-spacebar: mark up the text\nC-g       : cancle mark up text\n
+C-w       : delete/cut\n
+M-w       : copy\n
+C-y       : paste\n
+C-_  & c-/: undo\n
+Search\n
+C-s search file\n
+M-% Replace\n
+\n
+Some other cmds\n
+C-x 1     : one window\n
+C-x 2     : split the window horrizontal\n
+C-x 3     : split the window vertical\n
+C-x o     : move the cursor to the bottom window\n
+C-x b     : switch buffer\n
+C-s       : search string\n
+C-g       : keyboard-quit\n
+c-x k	  : Close\n
+M-x goto-line: go to line number\n");
+Return 0;
+}

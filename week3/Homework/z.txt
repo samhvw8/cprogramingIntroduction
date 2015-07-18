@@ -1,0 +1,53 @@
+WAYNE ROONEY
+
+CLUB                     Manchester United
+POSITION                 Forward
+
+FANTASY PREMIER LEAGUE
+Form      Popularity
+0.0       31.1%
+
+BARCLAYS FAN RATING      6.35
+
+EA SPORTS PLAYER PERFORMANCE INDEX
+Score     Rank
+41        68
+
+TOPPS MATCH ATTAX
+Attack    Defence
+87        47
+
+
+OVERVIEW
+Player Information
+Date of birth       24/10/1985     Height              1.78 m
+Age                 28             Weight              78 kg
+Country of birth    England        National team       England
+
+Career overview
+Appearances         377            Titles won          5
+Goals               174            25-man squad member SQUAD
+Yellow cards        80             Home grown player   HGd
+Red cards           2              
+
+STATISTICS
+GOALS
+GOALS / MATCH : 0.33
+Scored with              Goals scored in a match
+Header                 0 Braces                 0
+Right foot             1 Hat tricks             0
+Left foot              0 Four goals             0
+Other                  0 Five goals             0
+
+SHOTS
+SHOTS / MATCH : 0.33
+Shots on target            Shots off target
+Saved by keeper       67 % Wide left            75 %
+Blocked                0 % Wide right            0 %
+Led to goal           33 % Over the bar          0 %
+Disallowed goals       0 % Hit woodwork          0 %
+Shots on target with       Shots off target with
+Right foot            67 % Right foot           50 %
+Left foot              0 % Left foot             0 %
+Header                33 % Header               50 %
+Other                  0 % Other                 0 %

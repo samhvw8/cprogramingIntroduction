@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main () { int i;
+  for (i = 0 ; i < 32; i++ ) { if (i != 31) printf("*"); else printf("*\n");}
+  printf("* My Name is Sam               *\n* Nice to meet you             * \n* Hope you will have happy time*\n");
+  for (i = 0 ; i < 32; i++ ) { if (i != 31) printf("*"); else printf("*\n");}
+ 
+
+  return 0;
+}
